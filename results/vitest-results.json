@@ -1,0 +1,157 @@
+{
+  "numTotalTestSuites": 12,
+  "numPassedTestSuites": 12,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 8,
+  "numPassedTests": 8,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1707234227682,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "App.vue"
+          ],
+          "fullName": " App.vue renders a title",
+          "status": "passed",
+          "title": "renders a title",
+          "duration": 19,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "App.vue"
+          ],
+          "fullName": " App.vue renders the navbar",
+          "status": "passed",
+          "title": "renders the navbar",
+          "duration": 65,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "App.vue"
+          ],
+          "fullName": " App.vue renders the races list",
+          "status": "passed",
+          "title": "renders the races list",
+          "duration": 7,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707234230730,
+      "endTime": 1707234230821,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/f3ndn/Desktop/exo intellij/ninja/ponyracer/src/__tests__/App.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Navbar.vue"
+          ],
+          "fullName": " Navbar.vue should toggle the class on click",
+          "status": "passed",
+          "title": "should toggle the class on click",
+          "duration": 94,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707234230334,
+      "endTime": 1707234230428,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/f3ndn/Desktop/exo intellij/ninja/ponyracer/src/components/__tests__/Navbar.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Race.vue"
+          ],
+          "fullName": " Race.vue should display a race name and its ponies",
+          "status": "passed",
+          "title": "should display a race name and its ponies",
+          "duration": 75,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707234230679,
+      "endTime": 1707234230754,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/f3ndn/Desktop/exo intellij/ninja/ponyracer/src/components/__tests__/Race.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Races.vue"
+          ],
+          "fullName": " Races.vue should display every race name in a title",
+          "status": "passed",
+          "title": "should display every race name in a title",
+          "duration": 59,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707234230719,
+      "endTime": 1707234230778,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/f3ndn/Desktop/exo intellij/ninja/ponyracer/src/components/__tests__/Races.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "FromNow"
+          ],
+          "fullName": " FromNow should transform a date",
+          "status": "passed",
+          "title": "should transform a date",
+          "duration": 7,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707234230424,
+      "endTime": 1707234230431,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/f3ndn/Desktop/exo intellij/ninja/ponyracer/src/utils/__tests__/FromNow.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Races.vue"
+          ],
+          "fullName": " Races.vue should display every race name in a title",
+          "status": "passed",
+          "title": "should display every race name in a title",
+          "duration": 62,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707234230693,
+      "endTime": 1707234230755,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/f3ndn/Desktop/exo intellij/ninja/ponyracer/src/views/__tests__/Races.spec.ts"
+    }
+  ]
+}
